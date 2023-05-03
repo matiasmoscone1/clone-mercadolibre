@@ -1,0 +1,12 @@
+
+/* Reset de css */
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+}
+
+
+:root{
+    --navbar-color: #fff159;
+}
