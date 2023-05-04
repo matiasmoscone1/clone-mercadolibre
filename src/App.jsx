@@ -5,18 +5,35 @@ function App() {
 
 
   const Navbar = () => {
-    return(<div>
-      <div> Logo </div>       
+    return(<div className="navbar-container">
+      <div className="navbar-logo"> </div>       
       
-      <div> <input /> Input Busqueda</div>
+      <div className="input-container"> <input /></div>
     
-      <div> Promocion starDisney </div>
+      <div className="promo-container"></div>
 
-      <div> Envios </div>
+      <div className="envios-container"> </div>
 
-      <div> Categoria/varios</div>
+      <div className="categorias-container">
+        <ul>
+          <li>Categorías</li>
+          <li>Ofertas</li>
+          <li>Historial</li>
+          <li>Supermercado</li>
+          <li>Moda</li>
+          <li>Vender</li>
+          <li>Ayuda</li>
+        </ul>
+      </div>
 
-      <div> Panel de usuario </div>
+      <div className="panel-container">
+      <ul>
+        <li>Creá tu cuenta</li>
+        <li>Ingresá</li>
+        <li>Mis compras</li>
+        <li>iconocarrito</li>
+      </ul>
+      </div>
 
     </div>)
   }
