@@ -8,7 +8,12 @@ function App() {
     return(<div className="navbar-container">
       <div className="navbar-logo"> </div>       
       
-      <div className="input-container"> <input /></div>
+      <div className="input-container"> 
+        <input type="text" placeholder="Buscar productos, marcas y mas..."/>
+        <button className="lupa-input">
+        
+        </button>    
+      </div>
     
       <div className="promo-container"></div>
 

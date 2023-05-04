@@ -36,13 +36,34 @@
 }
 
 .input-container{
-    width: 478px;
-    height: 40px;
+    display: flex;
+    flex-direction: row;
 }
 
 .input-container input{
     width: 44em;
     height: 3em;
+    border: none;
+    box-shadow: 0px 1px 1px 0.5px rgba(0, 0, 0, 0.2);
+}
+
+.input-container input::placeholder{
+    color:rgb(206, 211, 214);
+    text-align: left;
+    font-size: 16px;
+    padding-left: 1em;
+}
+
+.lupa-input{
+    background-image: url(/src/assets/lupa-input.png);
+    width: 3.5em;
+    height: 3em;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+    border: none;
+    box-shadow: 0px 1px 1px 0.5px rgba(0, 0, 0, 0.2);
 }
 
 .promo-container{
