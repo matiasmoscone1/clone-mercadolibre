@@ -1,6 +1,7 @@
 
 
 
+
 function App() {
 
 
@@ -52,6 +53,28 @@ function App() {
 
   const FormasPago = () => {
     return(<div>
+      <div>
+        <button><img src="src/assets/forma_de_pago_credito.png"/></button>
+        <span>Tarjeta de crédito</span>
+      </div>
+      <div>
+        <button><img src="src/assets/forma_de_pago_debito.png"/></button>
+        <span>Tarjeta de débito</span>
+      </div>
+      <div>
+        <button><img src="src/assets/forma_de_pago_cuotas.png"/></button>
+        <span>Cuotas sin tarjeta</span>
+      </div>
+      <div>
+        <button><img src="src/assets/forma_de_pago_efectivo.png"/></button>
+        <span>Efectivo</span>
+      </div>
+      <div>
+        <button>+</button>
+      </div>
+
+
+
       Formas de pago
     </div>)
   }
