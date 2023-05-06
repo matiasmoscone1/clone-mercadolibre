@@ -172,6 +172,7 @@
     justify-content: flex-start;
     align-items: baseline;
     gap: 1em;
+    margin-left: 4.7em;
 }
 .ofertas-container h2{
     font-size: 26px;
@@ -185,4 +186,19 @@
     margin-bottom: 2px;
     text-decoration: none;
     color: #3483fa;
+}
+
+
+.grilla-ofertas-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
+
+.grilla-ofertas-container article{
+    height: 350px;
+    width: 224px;
+    background-color: #ffffff;
+    cursor: pointer;
 }

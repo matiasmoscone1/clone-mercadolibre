@@ -100,8 +100,55 @@ function App() {
       <h2>Ofertas</h2>
       <a href="#">Ver todas</a>
     </div>
+    <br/>
+
+    <div className="grilla-ofertas-container">
+    
+      <article>
+        <div>
+          <img src="asd"/>
+        </div>
+        <div>
+          info
+        </div>
+      </article>
+ 
+      <article>
+        <div>
+          <img src="asd"/>
+        </div>
+        <div>
+          info
+        </div>
+      </article>
+
+      <article>
+        <div>
+          <img src="asd"/>
+        </div>
+        <div>
+          info
+        </div>
+      </article>
       
-    <div className="grilla-container">
+      <article>
+        <div>
+          <img src="asd"/>
+        </div>
+        <div>
+          info
+        </div>
+      </article>
+
+      <article>
+        <div>
+          <img src="asd"/>
+        </div>
+        <div>
+          info
+        </div>
+      </article>
+
 
     </div>
     </>
