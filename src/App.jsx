@@ -54,29 +54,41 @@ function App() {
   const FormasPago = () => {
     return(
     <div className="formas-pago-container">
-      <div>
+      <section className="seccion-pago">
         <button><img src="src/assets/forma_de_pago_credito.png"/></button>
-        <span>Tarjeta de crédito</span>
-        <a href="#">Ver promociones bancarias</a>
-      </div>
-      <div>
+        <div className="container-pago-texto">
+          <span>Tarjeta de crédito</span>
+          <a href="#">Ver promociones bancarias</a>
+        </div>
+      </section>
+
+      <section className="seccion-pago">
         <button><img src="src/assets/forma_de_pago_debito.png"/></button>
-        <span>Tarjeta de débito</span>
-        <a href="#">Ver más</a>
-      </div>
-      <div>
+        <div className="container-pago-texto">
+          <span>Tarjeta de débito</span>
+          <a href="#">Ver más</a>    
+        </div>
+      </section>
+      
+      <section className="seccion-pago">
         <button><img src="src/assets/forma_de_pago_cuotas.png"/></button>
-        <span>Cuotas sin tarjeta</span>
-        <a href="#">Conocé Mercado Crédito</a>
-      </div>
-      <div>
+        <div className="container-pago-texto"> 
+          <span>Cuotas sin tarjeta</span>
+          <a href="#">Conocé Mercado Crédito</a>  
+        </div>
+      </section>
+      
+      <section className="seccion-pago">
         <button><img src="src/assets/forma_de_pago_efectivo.png"/></button>
-        <span>Efectivo</span>
-        <a href="#">Ver más</a>
-      </div>
-      <div>
+        <div className="container-pago-texto">
+          <span>Efectivo</span>
+          <a href="#">Ver más</a>  
+        </div>
+      </section>
+      
+      <section className="seccion-pago">
         <button>+</button>
-      </div>
+      </section>
     </div>)
   }
 
