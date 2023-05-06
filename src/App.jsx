@@ -94,9 +94,18 @@ function App() {
 
 
   const Ofertas = () => {
-    return(<div>
-      Ofertas
-    </div>)
+    return(
+    <>
+    <div className="ofertas-container">
+      <h2>Ofertas</h2>
+      <a href="#">Ver todas</a>
+    </div>
+      
+    <div className="grilla-container">
+
+    </div>
+    </>
+    )
   }
 
   const Subscripcion = () => {

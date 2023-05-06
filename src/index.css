@@ -164,5 +164,25 @@
     flex-direction: column;
 }
 
+/* Ofertas */
 
+.ofertas-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+    gap: 1em;
+}
+.ofertas-container h2{
+    font-size: 26px;
+    font-weight: 300;
+    margin: 0 0 0 8px;
+    color: #666;
+}
 
+.ofertas-container a{
+    font-size: 16px;
+    margin-bottom: 2px;
+    text-decoration: none;
+    color: #3483fa;
+}
