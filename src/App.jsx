@@ -87,7 +87,7 @@ function App() {
       </section>
       
       <section className="seccion-pago">
-        <button>+</button>
+        <button><img src="src/assets/forma_de_pago_btn.png"/></button>
       </section>
     </div>)
   }
