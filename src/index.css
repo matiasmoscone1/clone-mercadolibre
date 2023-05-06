@@ -26,6 +26,7 @@
     grid-template-rows: 50% 50%;
 }
 
+/* Logo de mercadolibre en navbar */
 .navbar-logo{
     width: 10em;
     height: 3em;
@@ -37,6 +38,7 @@
     cursor: pointer;
 }
 
+/* Input navbar */
 .input-container{
     display: flex;
     flex-direction: row;
@@ -69,6 +71,8 @@
     box-shadow: 0px 1px 1px 0.5px rgba(0, 0, 0, 0.2);
 }
 
+
+/* Imagen de promocion en navbar */
 .promo-container{
     background-image: url(/src/assets/promo-navbar.png);
     width: 25em;
@@ -79,6 +83,7 @@
     cursor: pointer;
 }
 
+/* Imagen de envios en navbar */
 .envios-container{
     background-image: url(/src/assets/btn-navbar.png);
     width: 8em;
