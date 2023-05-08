@@ -106,7 +106,8 @@ function App() {
     
       <article>
         <div>
-          <img src="asd"/>
+          <img className="img-oferta" src="src/assets/oferta_1.png"/>
+          <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
           info
@@ -115,7 +116,8 @@ function App() {
  
       <article>
         <div>
-          <img src="asd"/>
+          <img className="img-oferta" src="src/assets/oferta_2.png"/>
+          <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
           info
@@ -124,16 +126,18 @@ function App() {
 
       <article>
         <div>
-          <img src="asd"/>
+          <img className="img-oferta" src="src/assets/oferta_3.png"/>
+          <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
-          info
+          <span className="oferta-precio-anterior">$214.999</span>
         </div>
       </article>
       
       <article>
         <div>
-          <img src="asd"/>
+          <img className="img-oferta" src="src/assets/oferta_4.png"/>
+          <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
           info
@@ -142,7 +146,8 @@ function App() {
 
       <article>
         <div>
-          <img src="asd"/>
+          <img className="img-oferta" src="src/assets/oferta_5.png"/>
+          <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
           info

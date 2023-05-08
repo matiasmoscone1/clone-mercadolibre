@@ -210,5 +210,24 @@
     /*height: 380px;*/
     transform-origin: top center;
     transform: scale(1.1);
+}
 
+
+.img-oferta{
+    width: 224px;
+    height: 225px;
+    padding: 10px;
+}
+
+.img-oferta-dia{
+    margin-left: 10px;
+}
+
+
+.oferta-precio-anterior{
+    color: #666;
+    font-size: 12px;
+    height: 15px;
+    opacity: 1;
+    text-decoration: line-through;   
 }
