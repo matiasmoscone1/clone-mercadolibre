@@ -130,7 +130,17 @@ function App() {
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
-          <span className="oferta-precio-anterior">$174.999</span>
+          <span className="oferta-precio-anterior">$219.999</span>
+          <br/>
+          <div className="contenedor-precio">
+            <span className="oferta-precio">$175.999</span>
+            <span className="oferta-off">20% OFF</span>
+          </div>
+          <span className="oferta-cuotas">Mismo precio en 6 cuotas de $29.333</span>
+          
+          <span className="oferta-envios">Envio gratis</span>
+          
+          <span className="oferta-producto">Smart TV Samsung Series 7 UN55AU7000GCZB LED...</span>
         </div>
       </article>
 
