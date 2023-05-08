@@ -116,6 +116,11 @@ function App() {
             <span className="oferta-precio">$184.999</span>
             <span className="oferta-off">13% OFF</span>
           </div>
+          <span className="oferta-cuotas">Mismo precio en 6 cuotas de $30.833</span>
+          
+          <span className="oferta-envios">Envio gratis &#x01C6; FULL</span>
+          
+          <span className="oferta-producto">Samsung Galaxy A54 5g 256gb 8gb Ram Awesome...</span>
         </div>
       </article>
  
