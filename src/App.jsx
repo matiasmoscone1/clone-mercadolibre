@@ -150,7 +150,17 @@ function App() {
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
-          <span className="oferta-precio-anterior">$256.248</span>
+          <span className="oferta-precio-anterior">$362.498</span>
+          <br/>
+          <div className="contenedor-precio">
+            <span className="oferta-precio">$277.999</span>
+            <span className="oferta-off">23% OFF</span>
+          </div>
+          <span className="oferta-cuotas">Mismo precio en 6 cuotas de $46.333</span>
+          
+          <span className="oferta-envios">Envio gratis</span>
+          
+          <span className="oferta-producto">Aire Acondicionado BGH Silent Air split frio/calor 450...</span>
         </div>
       </article>
       
@@ -160,7 +170,17 @@ function App() {
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
-          <span className="oferta-precio-anterior">$441.789</span>
+          <span className="oferta-precio-anterior">$441.782</span>
+          <br/>
+          <div className="contenedor-precio">
+            <span className="oferta-precio">$121.030</span>
+            <span className="oferta-off">72% OFF</span>
+          </div>
+          <span className="oferta-cuotas">Mismo precio en 12 cuotas de $10.085</span>
+          
+          <span className="oferta-envios">Envio gratis</span>
+          
+          <span className="oferta-producto">Sommier Simmons BackCare Hotel Bilt 2 plazas de...</span>
         </div>
       </article>
 
@@ -171,6 +191,16 @@ function App() {
         </div>
         <div>
           <span className="oferta-precio-anterior">$194.499</span>
+          <br/>
+          <div className="contenedor-precio">
+            <span className="oferta-precio">$174.999</span>
+            <span className="oferta-off">10% OFF</span>
+          </div>
+          <span className="oferta-cuotas">Mismo precio en 6 cuotas de $29.166</span>
+          
+          <span className="oferta-envios">Envio gratis</span>
+          
+          <span className="oferta-producto">Lavarropas Automático Carga Frontal 6.5kg Inverter...</span>
         </div>
       </article>
 
