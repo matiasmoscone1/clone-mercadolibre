@@ -110,7 +110,12 @@ function App() {
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
-          info
+          <span className="oferta-precio-anterior">$214.999</span>
+          <br/>
+          <div className="contenedor-precio">
+            <span className="oferta-precio">$184.999</span>
+            <span className="oferta-off">13% OFF</span>
+          </div>
         </div>
       </article>
  
@@ -120,7 +125,7 @@ function App() {
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
-          info
+          <span className="oferta-precio-anterior">$174.999</span>
         </div>
       </article>
 
@@ -130,7 +135,7 @@ function App() {
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
-          <span className="oferta-precio-anterior">$214.999</span>
+          <span className="oferta-precio-anterior">$256.248</span>
         </div>
       </article>
       
@@ -140,7 +145,7 @@ function App() {
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
-          info
+          <span className="oferta-precio-anterior">$441.789</span>
         </div>
       </article>
 
@@ -150,7 +155,7 @@ function App() {
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
         <div>
-          info
+          <span className="oferta-precio-anterior">$194.499</span>
         </div>
       </article>
 
