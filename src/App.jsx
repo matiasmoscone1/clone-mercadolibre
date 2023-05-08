@@ -22,7 +22,7 @@ function App() {
 
       <div className="categorias-container">
         <ul>
-          <li>Categorías</li>
+          <li>Categorías <img src="src/assets/flecha-categoria.png"/></li>
           <li>Ofertas</li>
           <li>Historial</li>
           <li>Supermercado</li>
