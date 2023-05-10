@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 
-
+/* Agregando variables de css */
 :root{
     --navbar-color: #fff159;
     background-color: #ebebeb;
@@ -97,6 +97,7 @@
     cursor: pointer;
 }
 
+/* Panel de categorias de la navbar */
 .categorias-container ul{
     list-style: none;
     display: flex;
@@ -108,6 +109,7 @@
     cursor: pointer;
 }
 
+/* Panel de cuenta de navbar */
 .panel-container ul{
     list-style: none;
     display: flex;
@@ -123,7 +125,6 @@
 
 
 /* Formas de Pago */
-
 
 .formas-pago-container{
     margin-top: 3.5em;
@@ -192,7 +193,7 @@
     color: #3483fa;
 }
 
-
+/* Contenedor de las tarjetas */
 .grilla-ofertas-container{
     display: flex;
     justify-content: center;
@@ -216,7 +217,7 @@
     transform: scale(1.1);
 }
 
-
+/* Estilos imagen de las tarjetas */
 .img-oferta{
     width: 224px;
     height: 225px;
@@ -227,7 +228,7 @@
     margin-left: 10px;
 }
 
-
+/* Estilos de toda las tarjetas menos las imagenes */
 .oferta-precio-anterior{
     color: #666;
     font-size: 12px;
