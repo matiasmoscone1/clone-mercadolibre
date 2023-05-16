@@ -328,3 +328,33 @@
     justify-content: center;
     align-items: center;
 }
+
+
+
+/* Beneficio mercado puntos */ 
+
+.beneficio-mercado-puntos-container{
+    margin-top: 5em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+    gap: 1em;
+    margin-left: 4.7em;
+}
+
+.beneficio-mercado-puntos-container h2{
+    font-size: 26px;
+    font-weight: 300;
+    margin: 0 0 0 8px;
+    color: #666;
+}
+
+.beneficio-mercado-puntos-container a{
+    font-size: 16px;
+    margin-bottom: 2px;
+    text-decoration: none;
+    color: #3483fa;
+}
+
+

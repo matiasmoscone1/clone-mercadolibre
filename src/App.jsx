@@ -224,9 +224,15 @@ function App() {
   }
 
   const BeneficioMercadoPuntos = () => {
-    return(<div>
-      Beneficio Mercado Puntos
-    </div>)
+    return(
+    <>
+    <div className="beneficio-mercado-puntos-container">
+      <h2>Beneficios de Mercado Puntos</h2>
+      <a href="#">Ver todos los beneficios</a>
+    </div>
+    <br/>
+    </>
+    )
   }
 
   const Publicidad = () => {
