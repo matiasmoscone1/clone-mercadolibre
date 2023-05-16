@@ -362,7 +362,21 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 0.8em;
+    gap: 0.5em;
 }
 
+.beneficio-mercado-puntos-container img{
+    cursor: pointer;
+}
+
+.beneficio-mercado-puntos-promocion-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3em;
+}
+
+.beneficio-mercado-puntos-promocion-container img{
+    cursor: pointer;
+}
 

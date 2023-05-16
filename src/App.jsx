@@ -236,7 +236,7 @@ function App() {
       <img src="src/assets/beneficio-mercado-puntos-hbo-max.png" />
       <img src="src/assets/beneficio-mercado-puntos-paramount.png" />
     </div>
-    <div className="">
+    <div className="beneficio-mercado-puntos-promocion-container">
       <img src="src/assets/beneficio-mercado-puntos-promocion.png" />
     </div>
     </>
