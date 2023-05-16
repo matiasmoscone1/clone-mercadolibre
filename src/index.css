@@ -218,7 +218,6 @@
 }
 
 .btn-tarjeta-toggle-hover{
-    /*background-image: url(/src/assets/corazon-tarjeta.png);*/
     width: 36px;
     height: 36px;
     background-size: auto;
@@ -245,15 +244,6 @@
     color: #4f688f;
     font-size: 26px;
 }
-
-
-/*
-.grilla-ofertas-container article:hover::after{
-    content: "♡";
-    position: absolute;
-    top: 20px;
-    right: 20px;
-}*/
 
 
 /* Estilos imagen de las tarjetas */
@@ -327,4 +317,14 @@
     margin-left: 1em;
     display: inline-block;
     padding-right: 20px;
+}
+
+
+/*  Subscripcion main  */
+
+.subscripcion-container{
+    margin-top: 5em ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

@@ -216,9 +216,11 @@ function App() {
   }
 
   const Subscripcion = () => {
-    return(<div>
-      Subscripcion
-    </div>)
+    return(
+      <div className="subscripcion-container">
+        <img src="src/assets/subscripcion-main.png"/>
+      </div>
+    )
   }
 
   const BeneficioMercadoPuntos = () => {
