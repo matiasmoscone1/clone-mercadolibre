@@ -333,7 +333,7 @@
 
 /* Beneficio mercado puntos */ 
 
-.beneficio-mercado-puntos-container{
+.beneficio-mercado-puntos-title-container{
     margin-top: 5em;
     display: flex;
     flex-direction: row;
@@ -343,18 +343,26 @@
     margin-left: 4.7em;
 }
 
-.beneficio-mercado-puntos-container h2{
+.beneficio-mercado-puntos-title-container h2{
     font-size: 26px;
     font-weight: 300;
     margin: 0 0 0 8px;
     color: #666;
 }
 
-.beneficio-mercado-puntos-container a{
+.beneficio-mercado-puntos-title-container a{
     font-size: 16px;
     margin-bottom: 2px;
     text-decoration: none;
     color: #3483fa;
+}
+
+
+.beneficio-mercado-puntos-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.8em;
 }
 
 
