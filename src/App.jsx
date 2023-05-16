@@ -106,6 +106,7 @@ function App() {
     
       <article>
         <div>
+          <button className="btn-tarjeta-toggle-hover"></button>
           <img className="img-oferta" src="src/assets/oferta_1.png"/>
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
@@ -126,6 +127,7 @@ function App() {
  
       <article>
         <div>
+          <button className="btn-tarjeta-toggle-hover"></button>
           <img className="img-oferta" src="src/assets/oferta_2.png"/>
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
@@ -146,6 +148,7 @@ function App() {
 
       <article>
         <div>
+          <button className="btn-tarjeta-toggle-hover"></button>
           <img className="img-oferta" src="src/assets/oferta_3.png"/>
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
@@ -166,6 +169,7 @@ function App() {
       
       <article>
         <div>
+          <button className="btn-tarjeta-toggle-hover"></button>
           <img className="img-oferta" src="src/assets/oferta_4.png"/>
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>
@@ -186,6 +190,7 @@ function App() {
 
       <article>
         <div>
+          <button className="btn-tarjeta-toggle-hover"></button>
           <img className="img-oferta" src="src/assets/oferta_5.png"/>
           <img className="img-oferta-dia" src="src/assets/oferta_del_dia.png"/>
         </div>

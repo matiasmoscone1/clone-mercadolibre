@@ -217,6 +217,45 @@
     transform: scale(1.1);
 }
 
+.btn-tarjeta-toggle-hover{
+    /*background-image: url(/src/assets/corazon-tarjeta.png);*/
+    width: 36px;
+    height: 36px;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    border-radius: 50%;
+    background-color: transparent;
+    position: absolute;
+    top: 14px;
+    right: 20px;
+    cursor: pointer;
+    background-color: rgba(243, 243, 238, 0.4);
+}
+
+.btn-tarjeta-toggle-hover::after{
+    content: "♡";
+    color: #3483fa;
+    font-size: 26px;
+}
+
+.btn-tarjeta-toggle-hover:hover::after{
+    content: "♡";
+    color: #4f688f;
+    font-size: 26px;
+}
+
+
+/*
+.grilla-ofertas-container article:hover::after{
+    content: "♡";
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}*/
+
+
 /* Estilos imagen de las tarjetas */
 .img-oferta{
     width: 224px;
