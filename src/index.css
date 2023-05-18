@@ -439,7 +439,6 @@
 }
 
 
-
 .descubri-container button{
     font-size: 14px;
     height: 36px;
@@ -459,4 +458,28 @@
     cursor: pointer;
 }
 
+/* SECCION TIENDA */
+
+.tienda-title-container{
+    margin-top: 5em;
+    margin-bottom: 1.5em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+    gap: 1em;
+    margin-left: 4.7em;
+}
+
+.tienda-title-container h2{
+    font-size: 26px;
+    font-weight: 300;
+    margin: 0 0 0 8px;
+    color: #666;
+}
+
+.tienda-title-container a{
+    text-decoration: none;
+    color:#3483fa;
+}
 

@@ -262,9 +262,14 @@ function App() {
   }
 
   const Tiendas = () => {
-    return(<div>
-      Tiendas
-    </div>)
+    return(
+    <>
+      <div className="tienda-title-container">
+        <h2>Relacionado con tus visitas en Celulares y Teléfonos</h2>
+        <a href="#">Ver historial</a>
+      </div>
+    </>
+    )
   }
 
   const TePuedeInteresar = () => {
