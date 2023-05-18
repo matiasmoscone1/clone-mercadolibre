@@ -380,3 +380,24 @@
     cursor: pointer;
 }
 
+/* SECCION DESCUBRI */
+.descubri-title-container{
+    margin-top: 5em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+    gap: 1em;
+    margin-left: 4.7em;
+}
+
+.descubri-title-container h2{
+    font-size: 26px;
+    font-weight: 300;
+    margin: 0 0 0 8px;
+    color: #666;
+}
+
+.descubri-container{
+
+}

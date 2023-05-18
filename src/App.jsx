@@ -243,16 +243,19 @@ function App() {
     )
   }
 
-  const Publicidad = () => {
-    return(<div>
-      Publicidad
-    </div>)
-  }
-
   const Descubri = () => {
-    return(<div>
-      Descubri
-    </div>)
+    return(
+      <>
+      <div className="descubri-title-container">
+        <h2>Descubrí</h2>
+      </div>
+      <div className="descubri-container">
+        <img src="src/assets/descubri-1.png"/>
+        <img src="src/assets/descubri-1.png"/>
+      </div>
+
+    </>
+    )
   }
 
   const Tiendas = () => {
@@ -299,8 +302,6 @@ function App() {
     <Subscripcion />
 
     <BeneficioMercadoPuntos />
-
-    <Publicidad />
 
     <Descubri />
 
