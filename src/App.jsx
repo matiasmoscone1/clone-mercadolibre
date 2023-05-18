@@ -250,8 +250,8 @@ function App() {
         <h2>Descubrí</h2>
       </div>
       <div className="descubri-container">
-        <img src="src/assets/descubri-1.png"/>
-        <img src="src/assets/descubri-1.png"/>
+        <img className="descubri-card" src="src/assets/descubri-1.png"/>
+        <img className="descubri-card" src="src/assets/descubri-2.png"/>
       </div>
 
     </>
