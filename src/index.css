@@ -382,7 +382,8 @@
 
 /* SECCION DESCUBRI */
 .descubri-title-container{
-    margin-top: 5em;
+    margin-top: 3em;
+    margin-bottom: 1.5em;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -405,12 +406,57 @@
     gap: 0.8em;
 }
 
-.descubri-card{
+.descubri-card-1{
+    height: 250px;
+    width: 584px;
+    background-image: url("src/assets/descubri-1.png");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
     border-radius: 1.5%;
 }
 
-.descubri-card:hover{
+.descubri-card-1:hover{
     box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.35);
     cursor: pointer;
     transition: all 0.2s ;
 }
+
+.descubri-card-2{
+    height: 250px;
+    width: 584px;
+    background-image: url("src/assets/descubri-2.png");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 1.5%;
+}
+
+.descubri-card-2:hover{
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.35);
+    cursor: pointer;
+    transition: all 0.2s ;
+}
+
+
+
+.descubri-container button{
+    font-size: 14px;
+    height: 36px;
+    line-height: 1px;
+    width: 96px;
+    background-color: #3483fa;
+    border-color: transparent;
+    color: #fff;
+    margin-top: 27.5%;
+    margin-left: 5.5%;
+}
+
+
+.descubri-container button:hover{
+    background-color: #2968c8;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+

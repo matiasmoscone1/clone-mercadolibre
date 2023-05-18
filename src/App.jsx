@@ -245,15 +245,18 @@ function App() {
 
   const Descubri = () => {
     return(
-      <>
+    <>
       <div className="descubri-title-container">
         <h2>Descubrí</h2>
       </div>
       <div className="descubri-container">
-        <img className="descubri-card" src="src/assets/descubri-1.png"/>
-        <img className="descubri-card" src="src/assets/descubri-2.png"/>
+        <div className="descubri-card-1">
+          <button>Ver más</button>  
+        </div>
+        <div className="descubri-card-2">
+          <button>Ver más</button>  
+        </div>
       </div>
-
     </>
     )
   }
