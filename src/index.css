@@ -652,3 +652,9 @@
     color: #666;
     font-weight: 600;
 }
+
+.imagen-flecha-coleccion{
+    width: 16px;
+    height: 12px;
+    cursor: pointer;
+}

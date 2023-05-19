@@ -308,7 +308,7 @@ function App() {
   const Colecciones = () => {
     return(
     <div className="colecciones-title-container">
-      <h2>Colecciones:</h2><span className="smart-home-title">Smart Home</span><span className="flechita-title"></span>
+      <h2>Colecciones:</h2><span className="smart-home-title">Smart Home</span><img className="imagen-flecha-coleccion" src="src/assets/flecha-coleccion.png"/>
     </div>
     )
   }
