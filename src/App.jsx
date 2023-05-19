@@ -291,6 +291,14 @@ function App() {
       <div className="te-puede-interesar-container">
         <div className="te-puede-interesar-title-container">
           <h2>Te puede interesar</h2>
+          <div className="interes-seccion">
+            <div className="interes-card-1">
+              <button>Ver más</button>  
+            </div>
+            <div className="interes-card-2">
+              <button>Ver más</button>  
+            </div>
+          </div>
         </div>
       </div>
       
