@@ -628,11 +628,27 @@
 }
 
 
+/* SECCION COLECCION */ 
+
+.colecciones-title-container{
+    display: flex;
+    flex-direction: row;    
+    align-items: baseline;
+    gap: 0.5em;
+    margin-left: 4.7em;
+    margin-top: 5em;
+}
 
 
+.colecciones-title-container h2{
+    font-size: 26px;
+    font-weight: 300;
+    margin: 0 0 0 8px;
+    color: #666;
+}
 
-
-
-
-
-
+.smart-home-title{
+    font-size: 26px;
+    color: #666;
+    font-weight: 600;
+}

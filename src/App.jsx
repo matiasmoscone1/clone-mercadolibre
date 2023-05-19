@@ -306,9 +306,11 @@ function App() {
   }
 
   const Colecciones = () => {
-    return(<div>
-      Colecciones
-    </div>)
+    return(
+    <div className="colecciones-title-container">
+      <h2>Colecciones:</h2><span className="smart-home-title">Smart Home</span><span className="flechita-title"></span>
+    </div>
+    )
   }
 
   const CategoriasPopulares = () => {
