@@ -487,7 +487,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 1em;
+    gap: 1.1em;
 }
 
 .card-tienda-1{
@@ -501,7 +501,7 @@
 
 .card-tienda-2{
     height: 340px;
-    width: 300px;
+    width: 280px;
     background-image: url("src/assets/tienda-2.png");
     background-size: cover;
     background-repeat: no-repeat;
@@ -510,7 +510,7 @@
 
 .card-tienda-3{
     height: 340px;
-    width: 300px;
+    width: 280px;
     background-image: url("src/assets/tienda-3.png");
     background-size: cover;
     background-repeat: no-repeat;
@@ -519,7 +519,7 @@
 
 .card-tienda-4{
     height: 340px;
-    width: 300px;
+    width: 280px;
     background-image: url("src/assets/tienda-4.png");
     background-size: cover;
     background-repeat: no-repeat;
@@ -546,6 +546,22 @@
 .tienda-container a:hover{
     color:#3483fa;
 }
+
+.te-puede-interesar-container{
+    margin-top: 5em;
+    margin-left: 4.7em;
+}
+
+.te-puede-interesar-title-container h2{
+    font-size: 26px;
+    font-weight: 300;
+    margin: 0 0 0 8px;
+    color: #666;
+}
+
+
+
+
 
 
 

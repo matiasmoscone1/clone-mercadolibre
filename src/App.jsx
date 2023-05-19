@@ -287,9 +287,14 @@ function App() {
   }
 
   const TePuedeInteresar = () => {
-    return(<div>
-      Te puede interesar
-    </div>)
+    return(
+      <div className="te-puede-interesar-container">
+        <div className="te-puede-interesar-title-container">
+          <h2>Te puede interesar</h2>
+        </div>
+      </div>
+      
+    )
   }
 
   const Colecciones = () => {
@@ -334,7 +339,8 @@ function App() {
     <Colecciones/>
 
     <CategoriasPopulares />
-
+    
+ 
     <Footer />
 
    </>
