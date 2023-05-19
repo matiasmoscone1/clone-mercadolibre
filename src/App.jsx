@@ -265,8 +265,22 @@ function App() {
     return(
     <>
       <div className="tienda-title-container">
-        <h2>Relacionado con tus visitas en Celulares y Teléfonos</h2>
-        <a href="#">Ver historial</a>
+        <h2>Las mejores tiendas te esperan</h2>
+        <a href="#">Ver tiendas</a>
+      </div>
+      <div className="tienda-container">
+        <div className="card-tienda-1">
+          <button>Ver tienda</button> 
+        </div>
+        <div className="card-tienda-2">
+          <button>Ver tienda</button> 
+        </div>
+        <div className="card-tienda-3">
+          <button>Ver tienda</button> 
+        </div>
+        <div className="card-tienda-4">
+          <button>Ver tienda</button> 
+        </div>
       </div>
     </>
     )

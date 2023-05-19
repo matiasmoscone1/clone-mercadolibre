@@ -483,3 +483,54 @@
     color:#3483fa;
 }
 
+.tienda-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card-tienda-1{
+    height: 340px;
+    width: 300px;
+    background-image: url("src/assets/tienda-1.png");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.card-tienda-2{
+    height: 340px;
+    width: 300px;
+    background-image: url("src/assets/tienda-2.png");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card-tienda-3{
+    height: 340px;
+    width: 300px;
+    background-image: url("src/assets/tienda-3.png");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card-tienda-4{
+    height: 340px;
+    width: 300px;
+    background-image: url("src/assets/tienda-4.png");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+
+
+
+
+
