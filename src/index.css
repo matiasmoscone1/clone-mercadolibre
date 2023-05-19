@@ -487,24 +487,23 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 1em;
 }
-
 
 .card-tienda-1{
     height: 340px;
-    width: 300px;
+    width: 280px;
     background-image: url("src/assets/tienda-1.png");
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
-
 
 .card-tienda-2{
     height: 340px;
     width: 300px;
     background-image: url("src/assets/tienda-2.png");
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -513,7 +512,7 @@
     height: 340px;
     width: 300px;
     background-image: url("src/assets/tienda-3.png");
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -522,11 +521,31 @@
     height: 340px;
     width: 300px;
     background-image: url("src/assets/tienda-4.png");
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
+
+.tienda-container a{
+    margin-top: 300px;
+    color: #999;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+.card-tienda-1:hover, .card-tienda-2:hover, .card-tienda-3:hover, .card-tienda-4:hover{
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.35);
+    cursor: pointer;
+    transition: all 0.2s ;
+}
+
+.tienda-container a:hover{
+    color:#3483fa;
+}
 
 
 

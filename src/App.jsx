@@ -270,16 +270,16 @@ function App() {
       </div>
       <div className="tienda-container">
         <div className="card-tienda-1">
-          <button>Ver tienda</button> 
+          <a href="#">Ver tienda</a> 
         </div>
         <div className="card-tienda-2">
-          <button>Ver tienda</button> 
+          <a href="#">Ver tienda</a> 
         </div>
         <div className="card-tienda-3">
-          <button>Ver tienda</button> 
+          <a href="#">Ver tienda</a> 
         </div>
         <div className="card-tienda-4">
-          <button>Ver tienda</button> 
+          <a href="#">Ver tienda</a> 
         </div>
       </div>
     </>
