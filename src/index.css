@@ -547,9 +547,17 @@
     color:#3483fa;
 }
 
+
+/*  SECCION TE PUEDE INTERESAR  */
+
+
 .te-puede-interesar-container{
     margin-top: 5em;
     margin-left: 4.7em;
+}
+
+.te-puede-interesar-title-container{
+    margin-bottom: 1.5em;
 }
 
 .te-puede-interesar-title-container h2{
@@ -559,14 +567,13 @@
     color: #666;
 }
 
-/*  SECCION TE PUEDE INTERESAR  */
-
-
 .interes-seccion{
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 0.8em;
+    margin-top: 1.5em;
+    margin-right: 4.7em;
 }
 
 .interes-card-1{
