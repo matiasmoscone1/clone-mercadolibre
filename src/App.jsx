@@ -313,7 +313,6 @@ function App() {
     </div>
     <div className="colecciones-container">
       <div className="card-principal-coleccion">
-        card-principal
       </div>
       <div className="card-coleccion">
         <img src="src/assets/coleccion-2.png"/>
