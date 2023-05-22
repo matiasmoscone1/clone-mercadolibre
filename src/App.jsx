@@ -312,7 +312,7 @@ function App() {
       <h2>Colecciones:</h2><span className="smart-home-title">Smart Home</span><img className="imagen-flecha-coleccion" src="src/assets/flecha-coleccion.png"/>
     </div>
     <div className="colecciones-container">
-      <div>
+      <div className="card-principal-coleccion">
         card-principal
       </div>
       <div>
