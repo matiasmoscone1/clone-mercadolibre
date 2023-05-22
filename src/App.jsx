@@ -315,35 +315,35 @@ function App() {
       <div className="card-principal-coleccion">
         card-principal
       </div>
-      <div>
-        card-1
+      <div className="card-coleccion">
+        <img src="src/assets/coleccion-2.png"/>
       </div>
-      <div>
-        card-2
-      </div>
-      
-      <div>
-        card-3
+      <div className="card-coleccion">
+        <img src="src/assets/coleccion-3.png"/>
       </div>
       
-      <div>
-        card-4
+      <div className="card-coleccion">
+        <img src="src/assets/coleccion-4.png"/>
       </div>
       
-      <div>
-        card-5
+      <div className="card-coleccion">
+        <img src="src/assets/coleccion-5.png"/>
       </div>
       
-      <div>
-        card-6
+      <div className="card-coleccion">
+        <img src="src/assets/coleccion-6.png"/>
       </div>
       
-      <div>
-        card-7
+      <div className="card-coleccion">
+        <img src="src/assets/coleccion-7.png"/>
       </div>
       
-      <div>
-        card-8
+      <div className="card-coleccion">
+        <img src="src/assets/coleccion-8.png"/>
+      </div>
+      
+      <div className="card-coleccion">
+        <img src="src/assets/coleccion-9.png"/>
       </div>
 
     </div>

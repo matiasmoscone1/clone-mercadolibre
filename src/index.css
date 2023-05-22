@@ -662,12 +662,13 @@
 .colecciones-container{
     display: grid;
     grid-template-columns: 40% 15% 15% 15% 15%;
-
     width: 1200px;
     height: 382px;
     border: 1px solid black;
     margin-left: 4.7em;
     margin-top: 1.5em;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
 }
 
 .card-principal-coleccion{
@@ -678,6 +679,11 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+}
+
+.card-coleccion{
+    width: 184px;
+    height: 184px;
 }
 
 
