@@ -351,9 +351,57 @@ function App() {
   }
 
   const CategoriasPopulares = () => {
-    return(<div>
-      Categorias Populares
-    </div>)
+    return(
+      <>
+      <div className="categorias-populares-title-container">
+        <h2>Categorías populares</h2>
+      </div>
+      <div className="categorias-populares-container">
+        <div>
+          card1
+        </div>
+        <div>
+          card2
+        </div>
+        <div>
+          card3
+        </div>
+        <div>
+          card4
+        </div>
+        <div>
+          card5
+        </div>
+        <div>
+          card6
+        </div>
+        <div>
+          card7
+        </div>
+        <div>
+          card8
+        </div>
+        <div>
+          card9
+        </div>
+        <div>
+          card10
+        </div>
+        <div>
+          card11
+        </div>
+        <div>
+          card12
+        </div>
+        <div>
+          card13
+        </div>
+        <div>
+          card14
+        </div>
+      </div>
+      </>
+    )
   }
 
   const Footer = () => {
