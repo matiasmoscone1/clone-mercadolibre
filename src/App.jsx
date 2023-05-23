@@ -357,46 +357,46 @@ function App() {
         <h2>Categorías populares</h2>
       </div>
       <div className="categorias-populares-container">
-        <div>
+        <div className="card-categorias-populares">
           card1
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card2
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card3
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card4
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card5
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card6
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card7
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card8
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card9
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card10
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card11
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card12
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card13
         </div>
-        <div>
+        <div className="card-categorias-populares">
           card14
         </div>
       </div>

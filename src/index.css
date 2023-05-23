@@ -714,11 +714,19 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     width: 1200px;
-    height: 382px;
+    height: 340px;
     justify-items: center;
-    margin-left: 1em;
+    margin-left: 4.7em;
 }
 
+.card-categorias-populares{
+    border: 1px solid black;
+    width: 100%;
+}
+
+.card-categorias-populares:hover{
+    cursor: pointer;
+}
 
 
 
