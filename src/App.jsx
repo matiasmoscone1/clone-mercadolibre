@@ -417,9 +417,26 @@ function App() {
   }
 
   const Footer = () => {
-    return(<div>
-      Footer
-    </div>)
+    return(
+    <>
+      <div className="footer-container">
+        <div className="footer-pagar">
+          <img src="src/assets/footer-1.png"/>
+          <br/>
+          <span>Elegí como pagar</span>
+        </div>  
+        <div className="footer-envio">
+          <img src="src/assets/footer-2.png"/>
+          <br/>
+          <span>Envío gratis desde $ 8.000</span>
+        </div>  
+        <div className="footer-seguridad">
+          <img src="src/assets/footer-3.png"/>
+          <br/>
+          <span>Seguridad, de principio a fin</span>
+        </div>   
+      </div>
+    </>)
   }
 
   return (
