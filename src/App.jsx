@@ -377,39 +377,39 @@ function App() {
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-6.png"/>
-          <span>Belleza y cuidado personal</span>
+          <span>Belleza y Cuidado Personal</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-7.png"/>
-          <span>Computacion</span>
+          <span>Juegos y Jugetes</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-8.png"/>
-          <span>Computacion</span>
+          <span>Celulares y Teléfonos</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-9.png"/>
-          <span>Computacion</span>
+          <span>Electrónica, Audio y Video</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-10.png"/>
-          <span>Computacion</span>
+          <span>Ropa y Accesorios</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-11.png"/>
-          <span>Computacion</span>
+          <span>Hogar, Muebles y Jardin</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-12.png"/>
-          <span>Computacion</span>
+          <span>Accesorios para Vehículos</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-13.png"/>
-          <span>Computacion</span>        
+          <span>Consolas y Videojuegos</span>        
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-14.png"/>
-          <span>Computacion</span>
+          <span>Alimentos y Bebidas</span>
         </div>
       </div>
       </>

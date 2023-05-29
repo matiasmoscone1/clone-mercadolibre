@@ -722,7 +722,7 @@
 }
 
 .card-categorias-populares{
-    border: 1px solid black;
+    border: 0.1px solid #ebebeb;
     width: 100%;
 }
 
@@ -745,6 +745,8 @@
     justify-content: center;
     align-items: center;
     color: #333;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 
