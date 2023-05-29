@@ -424,16 +424,22 @@ function App() {
           <img src="src/assets/footer-1.png"/>
           <br/>
           <span>Elegí como pagar</span>
+          <p>Podés pagar con tarjeta, débito, efectivo o hasta 12 cuotas sin tarjeta con Mercado Crédito.</p>
+          <a href="#">Cómo pagar tus compras</a>
         </div>  
         <div className="footer-envio">
           <img src="src/assets/footer-2.png"/>
           <br/>
           <span>Envío gratis desde $ 8.000</span>
+          <p>Solo por estar registrado en Mercado Libre tenés envíos gratis en miles de productos. Es un beneficio de Mercado Puntos.</p>
+          <a href="#">Conocé más sobre este beneficio</a>
         </div>  
         <div className="footer-seguridad">
           <img src="src/assets/footer-3.png"/>
           <br/>
           <span>Seguridad, de principio a fin</span>
+          <p>¿No te gusta? ¡Devolvelo! En Mercado Libre, no hay nada que no puedas hacer, porque estás siempre protegido.</p>
+          <a href="#">Cómo te protegemos</a>
         </div>   
       </div>
     </>)
