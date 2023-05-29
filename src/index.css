@@ -718,6 +718,7 @@
     justify-items: center;
     margin-left: 4.75em;
     background-color: #fff;
+
 }
 
 .card-categorias-populares{
@@ -730,10 +731,22 @@
 }
 
 .card-categorias-populares img{
+    width: 54px;
+    height: 54px;
+    margin-left: 50%;
+    margin-top: 40%;
+    transform: translate(-50%,-50%);
+    position: relative;
+}
+
+
+.card-categorias-populares span{
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #333;
 }
+
 
 
 

@@ -357,45 +357,59 @@ function App() {
       <div className="categorias-populares-container">
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-1.png"/>
+          <span>Autos, Motos y Otros</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-2.png"/>
+          <span>Computación</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-3.png"/>
+          <span>Electrodomésticos y Aires Ac.</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-4.png"/>
+          <span>Deportes y Fitness</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-5.png"/>
+          <span>Inmuebles</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-6.png"/>
+          <span>Belleza y cuidado personal</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-7.png"/>
+          <span>Computacion</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-8.png"/>
+          <span>Computacion</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-9.png"/>
+          <span>Computacion</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-10.png"/>
+          <span>Computacion</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-11.png"/>
+          <span>Computacion</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-12.png"/>
+          <span>Computacion</span>
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-13.png"/>
+          <span>Computacion</span>        
         </div>
         <div className="card-categorias-populares">
           <img src="src/assets/categorias-14.png"/>
+          <span>Computacion</span>
         </div>
       </div>
       </>
