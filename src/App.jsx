@@ -1,7 +1,5 @@
 
 
-
-
 function App() {
 
 
@@ -358,46 +356,46 @@ function App() {
       </div>
       <div className="categorias-populares-container">
         <div className="card-categorias-populares">
-          card1
+          <img src="src/assets/categorias-1.png"/>
         </div>
         <div className="card-categorias-populares">
-          card2
+          <img src="src/assets/categorias-2.png"/>
         </div>
         <div className="card-categorias-populares">
-          card3
+          <img src="src/assets/categorias-3.png"/>
         </div>
         <div className="card-categorias-populares">
-          card4
+          <img src="src/assets/categorias-4.png"/>
         </div>
         <div className="card-categorias-populares">
-          card5
+          <img src="src/assets/categorias-5.png"/>
         </div>
         <div className="card-categorias-populares">
-          card6
+          <img src="src/assets/categorias-6.png"/>
         </div>
         <div className="card-categorias-populares">
-          card7
+          <img src="src/assets/categorias-7.png"/>
         </div>
         <div className="card-categorias-populares">
-          card8
+          <img src="src/assets/categorias-8.png"/>
         </div>
         <div className="card-categorias-populares">
-          card9
+          <img src="src/assets/categorias-9.png"/>
         </div>
         <div className="card-categorias-populares">
-          card10
+          <img src="src/assets/categorias-10.png"/>
         </div>
         <div className="card-categorias-populares">
-          card11
+          <img src="src/assets/categorias-11.png"/>
         </div>
         <div className="card-categorias-populares">
-          card12
+          <img src="src/assets/categorias-12.png"/>
         </div>
         <div className="card-categorias-populares">
-          card13
+          <img src="src/assets/categorias-13.png"/>
         </div>
         <div className="card-categorias-populares">
-          card14
+          <img src="src/assets/categorias-14.png"/>
         </div>
       </div>
       </>
