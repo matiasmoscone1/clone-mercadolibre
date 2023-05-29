@@ -759,10 +759,6 @@
     height: 100vh;    
 }
 
-.footer-container img{
-    margin-top: 5em;
-}
-
 .footer-container span{
     color: #4b4b4b;
     font-size: 20px;
@@ -771,11 +767,43 @@
     margin: 16px 0 0;
 }
 
+.footer-row-container{
+    display: flex;
+    flex-direction: row;
+}
 
+.footer-pagar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.footer-pagar img{
+    width: 66px;
+    height: 44px;
+}
 
+.footer-envio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.footer-envio img{
+    width: 56px;
+    height: 49px;
+}
 
+.footer-seguridad{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-seguridad img{
+    width: 51px;
+    height: 55px;
+}
 
 
 

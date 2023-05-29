@@ -420,6 +420,7 @@ function App() {
     return(
     <>
       <div className="footer-container">
+        <div className="footer-row-container">
         <div className="footer-pagar">
           <img src="src/assets/footer-1.png"/>
           <br/>
@@ -440,7 +441,23 @@ function App() {
           <span>Seguridad, de principio a fin</span>
           <p>¿No te gusta? ¡Devolvelo! En Mercado Libre, no hay nada que no puedas hacer, porque estás siempre protegido.</p>
           <a href="#">Cómo te protegemos</a>
-        </div>   
+        </div>
+        </div>
+
+        <div className="footer-arrepentimiento">
+          <span>Botón de arrepentimiento</span>
+          <a href="#">Cancelar una compra</a>
+          <a href="#">Cancelar una suscripción</a>
+          <a href="#">Cancelar un seguro o garantía</a>
+        </div>
+        <div className="footer-normas">
+          <span>Conocé las normas que aplican cuando comprás</span>
+          <a href="#">Ver contratos de adhesión - Ley N.º 24.240 de Defensa del Consumidor</a>
+        </div>
+        <div className="footer-img-ayuda">
+
+        </div>
+
       </div>
     </>)
   }
