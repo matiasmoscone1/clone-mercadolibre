@@ -456,8 +456,10 @@ function App() {
           <a href="#">Ver contratos de adhesión - Ley N.º 24.240 de Defensa del Consumidor</a>
         </div>
         </div>
-        <div className="footer-img-ayuda">
-
+        <div className="footer-img">
+          <img src="src/assets/footer-ayuda.png"/>
+          <img src="src/assets/footer-seguros.png"/>
+          <img src="src/assets/footer-qr.png"/>
         </div>
 
       </div>
