@@ -461,6 +461,9 @@ function App() {
           <img src="src/assets/footer-seguros.png"/>
           <img src="src/assets/footer-qr.png"/>
         </div>
+        <div className="footer-mas-info">
+          <button>Más información</button>
+        </div>
 
       </div>
     </>)
