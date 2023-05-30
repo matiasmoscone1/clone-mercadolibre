@@ -444,6 +444,7 @@ function App() {
         </div>
         </div>
 
+        <div className="footer-box-arrepentimiento-normas">
         <div className="footer-arrepentimiento">
           <span>Botón de arrepentimiento</span>
           <a href="#">Cancelar una compra</a>
@@ -453,6 +454,7 @@ function App() {
         <div className="footer-normas">
           <span>Conocé las normas que aplican cuando comprás</span>
           <a href="#">Ver contratos de adhesión - Ley N.º 24.240 de Defensa del Consumidor</a>
+        </div>
         </div>
         <div className="footer-img-ayuda">
 
