@@ -464,6 +464,22 @@ function App() {
         <div className="footer-mas-info">
           <button>Más información</button>
         </div>
+        
+        <div className="footer-navbar">
+          <ul>
+            <li>Trabajá con nosotros</li>
+            <li>Términos y condiciones</li>
+            <li>Cómo cuidamos tu privacidad</li>
+            <li>Accesibilidad</li>
+            <li>Información al usuario financiero</li>
+            <li>Ayuda</li>
+            <li>Defensa del Consumidor</li>
+            <li>Informacion sobre seguros</li>
+          </ul>
+          <span>Copyright © 1999-2023 MercadoLibre S.R.L.</span>
+          <br/>
+          <span>Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA</span>
+        </div>
 
       </div>
     </>)
